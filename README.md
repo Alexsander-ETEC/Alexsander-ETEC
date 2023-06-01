@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexsander-ETEC
 - 👀 I’m interested in ... programar
-- 🌱 I’m currently learning ... git
+- 🌱 I’m currently learning ... c
 - 💞️ I’m looking to collaborate on ... criação de programas
 - 📫 How to reach me ... qualquer midia social
 
